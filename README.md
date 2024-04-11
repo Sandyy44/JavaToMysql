@@ -45,8 +45,11 @@ There are two ways to connect Java to MySQL database: using the command line (fo
    ![Screenshot 2024-04-11 122845](https://github.com/Sandyy44/JavaToMysql/assets/100297367/b1f2fb44-5e72-4bab-83d8-4a575c517dd8)
 
 5. **Insert Code**: Get the code from my repo and paste it
+
    for `config.properties`      --> *NetBeans Method/javaToMysql > src > config.properties*
+
    for `getPropertyValues.java` --> *NetBeans Method/javaToMysql > src > javatomysql > getPropertyValues.java*
+
    for `JavaToMysql.java`       --> *NetBeans Method/javaToMysql > src > javatomysql > JavaToMysql.java*
 
 6. **Edit Code**: Follow my comments in each file and make the necessary changes suitable for your database information.
